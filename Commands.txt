@@ -1,0 +1,8 @@
+1. git init
+2. git add <file_name>
+3. git status -> whether file is modified or ......
+4. git commit -m "<Message>" 
+5. git log -> Tell info about commits
+6. git checkout <git_file id>
+7. git reset --hard <git file_id>
+8. 
