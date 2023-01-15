@@ -10,3 +10,21 @@
 10. git checkout <branch_name> -> To switch to a particular Branch
 11. git branch -D <branch_name> -> To Delete a Branch
 12. git checkout -b <branch_name>
+13. git merge <new_branch> 
+14. git remote add origin https://github.com/Raviteja72/Excel_Essentials.git -> Initial step to connect our local repo with remote repo
+15. git remote set-url origin https://Raviteja72@github.com/Raviteja72/Git_Essentials.git -> Authentication Starts
+16. git push origin master -> Pushing out code into remote Git Repo
+17. Create a token and then copy that token to get from local repo to remote repo -> Token Generation 
+18. git push --set-upstream origin master -> To automatically push according to the current branch 
+
+1. git config --global user.name "Raviteja72"
+2. git config --global user.email "krtproperty72@gmail.com"
+3. git clone <url> <Folder_name>
+4. git remote
+5. git remote get-url origin -> utl of original repository created 
+
+
+ERROR
+
+git pull --rebase origin master
+git push origin master
